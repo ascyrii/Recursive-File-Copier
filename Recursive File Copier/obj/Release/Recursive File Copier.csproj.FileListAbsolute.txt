@@ -1,0 +1,9 @@
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\bin\Release\Recursive File Copier.exe.config
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\bin\Release\Recursive File Copier.exe
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\bin\Release\Recursive File Copier.pdb
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\obj\Release\Recursive_File_Copier.Form1.resources
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\obj\Release\Recursive_File_Copier.Properties.Resources.resources
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\obj\Release\Recursive File Copier.csproj.GenerateResource.Cache
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\obj\Release\Recursive File Copier.exe
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\obj\Release\Recursive File Copier.pdb
+c:\users\easton\documents\visual studio 2015\Projects\Recursive File Copier\Recursive File Copier\obj\Release\Recursive File Copier.csprojResolveAssemblyReference.cache
